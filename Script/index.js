@@ -1,6 +1,7 @@
 
 let loveCount = 0;
 let coinCount = 100; 
+
 let copyCount = 0;
 
 const loveBtn = document.getElementById("loveBtn");
