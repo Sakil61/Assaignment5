@@ -13,7 +13,7 @@ You have to create a `Readme.md` file. and write down following questions. Dont 
 
 				*** Answer the questions***
 
-1. getElementById: Selects a single element based on its unique id attribute.Only one element is available.
+1.getElementById: Selects a single element based on its unique id attribute.Only one element is available.
 getElementsByClassName: Selects all elements that possess a specific class name.Multiple elements are available.
 querySelector / querySelectorAll : Selects all elements that match a specified CSS selector.
 
